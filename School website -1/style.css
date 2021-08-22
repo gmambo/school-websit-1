@@ -1,0 +1,59 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel1{
+padding-left: 0px;
+padding-right: 0px;
+float: none;
+border: 1px solid lightgray;
+}
+.travel1 img{
+width: 100%;
+}
+.travel1 hr{
+width: 230px;
+}
+.travel1 h5, .travel1 p{
+margin-left: 20px;
+}
+.moviehead{
+font-size: 20px;
+border-radius: 10px;
+margin-bottom: 15px;
+width: 100%;
+display: inline-block;
+padding: 6px 22px;
+}
+.moviehead i{
+float:right;
+}
+.movietext span{
+color: goldenrod;
+}
+.newslist{
+margin-top: 15px;
+}
+.newslist h4{
+padding: 8px;
+border-bottom: 1px solid lightgreen;
+}
+.newslist img{
+border-radius:  25px;
+}
+.newslist p{
+margin-top: 10px;
+}
